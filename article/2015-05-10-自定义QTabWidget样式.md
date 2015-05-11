@@ -9,7 +9,7 @@ tags:
 >原创作品，允许转载。转载时请务必以超链接形式标明文章原始出处、作者信息和本声明，否则将追究法律责任。
 
 记录一下如果用`QSS`实现如下效果的`QTabWidget`控件:
-![result.png](result.png)
+![效果图](result.png)
 
 ``` css
 QTabWidget#tabWidget:pane {
