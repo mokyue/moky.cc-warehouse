@@ -2,6 +2,7 @@ title: 自定义QScrollBar样式
 date: 2015-05-11 12:36:25
 categories:
 - Qt
+- PyQt
 tags:
 - QSS
 - QScrollBar
